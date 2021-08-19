@@ -1,0 +1,7 @@
+main: com.notlhos.donatemap.DonateMapPlugin
+name: DonateMap
+author: Notlhos
+version: 1.0
+
+commands:
+  dmap:
